@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Edify Shadap - Portfolio</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 16px;
+        }
+    </style>
+</head>
+
+<body>
+
+  <h1>Edify Shadap</h1>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+       I am Edify Shadap, a student who enjoys learning new skills and exploring technology. 
+       I am passionate about improving myself, building projects, and gaining knowledge that helps me grow 
+       both personally and academically.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>C</li>
+      <li>C++</li>
+      <li>Python (Basic)</li>
+      <li>HTML (Basic)</li>
+      <li>CSS (Basic)</li>
+      <li>JavaScript (Basic)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Interests</h2>
+    <ul>
+      <li>Web development</li>
+      <li>Learning programming and coding</li>
+      <li>Writing poetry and creative expression</li>
+      <li>Reading novels and literature</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+
+    <h3>Personal Portfolio Website</h3>
+    <p>
+      A simple personal portfolio website created using HTML to showcase my skills, interests, and projects.
+      This project is currently under development as part of my learning process.
+    </p>
+
+    <h3>Simple Calculator (C++)</h3>
+    <p>
+      A basic calculator program developed in C++ that performs fundamental arithmetic operations such as
+      addition, subtraction, multiplication, and division.
+    </p>
+    <a href="https://github.com/EdifyShadap/Simplecalculator" target="_blank">
+      View Project
+    </a>
+
+    <h3>Guessing Game (C++)</h3>
+    <p>
+      A simple number guessing game developed in C++ where the program generates a random number and the user
+      tries to guess it until the correct number is found.
+    </p>
+    <a href="https://github.com/EdifyShadap/guessinggame" target="_blank">
+      View Project
+    </a>
+  </section>
+
+</body>
+</html>
